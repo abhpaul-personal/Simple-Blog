@@ -1,0 +1,21 @@
+body {
+    padding-top: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.list-group-item a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.list-group-item a:hover {
+    text-decoration: underline;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
